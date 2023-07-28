@@ -24,7 +24,7 @@ Click [here](https://play.google.com/store/apps/details?id=dev.singlecodebase71.
 - Mapper (Converting responses into Models)
 - Picking Images for Upload Profile
 - (Splash - Onboarding - Login - Register - Forgot Password - UsersList - chatList - chat room - Profile - Edit Profile) Screens
-- ![image6](https://github.com/MinaNady71/chat-app-clean-architecture-public/assets/101990428/68b12ba8-09da-429b-b90c-98be6c066aca =24x48)
+- ![image6](https://github.com/MinaNady71/chat-app-clean-architecture-public/assets/101990428/68b12ba8-09da-429b-b90c-98be6c066aca)
 ![image4](https://github.com/MinaNady71/chat-app-clean-architecture-public/assets/101990428/1c785183-eba8-4034-a3a6-d25343db85dc)
 ![image3](https://github.com/MinaNady71/chat-app-clean-architecture-public/assets/101990428/abdd892a-a59b-4e82-8443-5fa104f2c50d)
 ![image2](https://github.com/MinaNady71/chat-app-clean-architecture-public/assets/101990428/e04ba16c-300e-4d38-af53-dea2642f19dc)
@@ -35,4 +35,4 @@ Click [here](https://play.google.com/store/apps/details?id=dev.singlecodebase71.
 ![image7](https://github.com/MinaNady71/chat-app-clean-architecture-public/assets/101990428/349874f1-666e-4fe6-800e-81898e34508b)
 ![image5](https://github.com/MinaNady71/chat-app-clean-architecture-public/assets/101990428/8aace4e7-45c5-4bd9-b84f-175d7cbd0496)
 
-<img src="[https://your-image-url.type](https://github.com/MinaNady71/chat-app-clean-architecture-public/assets/101990428/8aace4e7-45c5-4bd9-b84f-175d7cbd0496)https://github.com/MinaNady71/chat-app-clean-architecture-public/assets/101990428/8aace4e7-45c5-4bd9-b84f-175d7cbd0496" width="100" height="100">
+<img src="https://github.com/favicon.ico](https://github.com/MinaNady71/chat-app-clean-architecture-public/assets/101990428/8aace4e7-45c5-4bd9-b84f-175d7cbd0496" height="24" width="48">
