@@ -34,5 +34,3 @@ Click [here](https://play.google.com/store/apps/details?id=dev.singlecodebase71.
 ![image8](https://github.com/MinaNady71/chat-app-clean-architecture-public/assets/101990428/65272dc9-e0f7-4c5b-bc23-bfd82d5092b5)
 ![image7](https://github.com/MinaNady71/chat-app-clean-architecture-public/assets/101990428/349874f1-666e-4fe6-800e-81898e34508b)
 ![image5](https://github.com/MinaNady71/chat-app-clean-architecture-public/assets/101990428/8aace4e7-45c5-4bd9-b84f-175d7cbd0496)
-
-<img src="https://github.com/favicon.ico](https://github.com/MinaNady71/chat-app-clean-architecture-public/assets/101990428/8aace4e7-45c5-4bd9-b84f-175d7cbd0496" height="100" width="100">
